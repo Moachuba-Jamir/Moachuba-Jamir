@@ -1,6 +1,6 @@
 <h1 align="left"> 🐼Moachuba Jamir</h1>
 
-I'm an independent full-stack developer from India, crafting my vision of the digital world, brick by brick. Every coding endeavor begins with meticulous planning and design, culminating in solutions that tackle real-world challenges head-on.
+As an independent full-stack developer hailing from India, I'm committed to manifesting my vision of the digital realm piece by piece. Every coding endeavor I undertake is rooted in meticulous planning and design, laying a solid foundation for crafting solutions that tackle real-world challenges head-on. Through strategic foresight and innovative thinking, I strive to bring meaningful contributions to the ever-evolving landscape of technology.
 
 <img align="left" alt ="Thanks for the visit!!" width ="63" title="Thanks for the visit!!" src="https://s9.gifyu.com/images/SFNKd.gif"> 
 <br>
