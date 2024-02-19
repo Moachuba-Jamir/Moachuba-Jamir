@@ -9,7 +9,7 @@ I'm an independent full-stack developer from India, crafting my vision of the di
 <img align="right" alt ="Thanks for the visit!!" width ="410" title="Thanks for the visit!!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpmenU0MjFscDJwZjdwbm92YWxzZWdxbGM5c3hseGd6aWN1bTZsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3Q0WtaO0qlmx1ubJqR/giphy.gif"> 
 
 
-<br>
+<h4></h4>
 
 - 🔭 I’m currently working on **an arcade basketball game using arduino and websockets**
 
