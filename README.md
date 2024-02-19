@@ -2,7 +2,7 @@
 
  <em> I'm an independent full-stack developer from India, crafting my vision of the digital world, brick by brick. Every coding endeavor begins with meticulous planning and design, culminating in solutions that tackle real-world challenges head-on.</em> 
 
-<img align="left" alt ="Thanks for the visit!!" width ="63" title="Thanks for the visit!!" src="https://s9.gifyu.com/images/SFNKd.gif"> 
+<img align="left" alt ="Thanks for the visit!!" width ="50" title="Thanks for the visit!!" src="https://s9.gifyu.com/images/SFNKd.gif"> 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moachuba-jamir&label=Profile%20views&color=0e75b6&style=flat" alt="moachuba-jamir" /> </p>
 
