@@ -10,6 +10,7 @@ I'm an independent full-stack developer from India, crafting my vision of the di
 
 
 <p></p>
+
 - 🔭 I’m currently working on **an arcade basketball game using arduino and websockets**
 
 - 🌱 I’m currently learning **Arduino, React**
