@@ -1,15 +1,15 @@
 <h1 align="left"> 🐼Moachuba Jamir</h1>
 
- <em> I'm an independent full-stack developer from India, crafting my vision of the digital world, brick by brick. Every coding endeavor begins with meticulous planning and design, culminating in solutions that tackle real-world challenges head-on.</em> 
+I'm an independent full-stack developer from India, crafting my vision of the digital world, brick by brick. Every coding endeavor begins with meticulous planning and design, culminating in solutions that tackle real-world challenges head-on.
 
-<img align="left" alt ="Thanks for the visit!!" width ="50" title="Thanks for the visit!!" src="https://s9.gifyu.com/images/SFNKd.gif"> 
+<img align="left" alt ="Thanks for the visit!!" width ="63" title="Thanks for the visit!!" src="https://s9.gifyu.com/images/SFNKd.gif"> 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moachuba-jamir&label=Profile%20views&color=0e75b6&style=flat" alt="moachuba-jamir" /> </p>
 
 <img align="right" alt ="Thanks for the visit!!" width ="410" title="Thanks for the visit!!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpmenU0MjFscDJwZjdwbm92YWxzZWdxbGM5c3hseGd6aWN1bTZsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3Q0WtaO0qlmx1ubJqR/giphy.gif"> 
 
 
-
+<p></p>
 - 🔭 I’m currently working on **an arcade basketball game using arduino and websockets**
 
 - 🌱 I’m currently learning **Arduino, React**
