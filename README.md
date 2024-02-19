@@ -2,7 +2,10 @@
 <h3 align="center">I'm an independent full-stack developer from India, crafting my vision of the digital world, brick by brick. Every coding endeavor begins with meticulous planning and design, culminating in solutions that tackle real-world challenges head-on.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moachuba-jamir&label=Profile%20views&color=0e75b6&style=flat" alt="moachuba-jamir" /> </p>
-<div width="400" align="right" style="border-radius: 40px;> <img align="right" alt ="coding" width ="400" " src="https://s9.gifyu.com/images/SFKBw.gif"></div>
+
+    <img align="right" alt ="coding" width ="400" style="border-radius: 5%;" src="https://s9.gifyu.com/images/SFKBw.gif">
+
+
 - 🔭 I’m currently working on **A an arcade basketball game**
 
 - 🌱 I’m currently learning **Arduino, React**
