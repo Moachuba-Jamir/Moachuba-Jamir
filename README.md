@@ -12,9 +12,9 @@ I'm an independent full-stack developer from India, crafting my vision of the di
 
 - 🔭 I’m currently working on **an arcade basketball game using arduino and websockets**
 
-- 🌱 I’m currently learning **Arduino, React**
+- 🌱 I’m currently learning **`Arduino`, `React`**
 
-- 💬 Ask me about **Python, Javascript, Html, Css**
+- 💬 Ask me about **`Python`, `Javascript`, `Html`, `Sass`**
 
 - 📫 How to reach me **jeremycarryme12@gmail.com**
 
@@ -29,7 +29,13 @@ I'm an independent full-stack developer from India, crafting my vision of the di
 
 
 <p>&nbsp;<img height="200" width="460" align="center" src="https://github-readme-stats.vercel.app/api?username=moachuba-jamir&show_icons=true&locale=en" alt="moachuba-jamir" /></p>
+<details>
+  <summary><h3>My coding journey so far</h3></summary>
+  As a computer science student, I embarked on my coding journey by diving into web development. Starting with HTML, CSS, and JavaScript, I crafted websites from scratch. Alongside my studies, I ventured into freelancing, gaining valuable experience by working on various coding projects for clients.
 
+As my skills grew, so did my curiosity. I expanded into Python, exploring its versatility and applications in data science and machine learning. Recently, I've been captivated by hardware programming, especially Arduino projects. It's been thrilling to combine software with physical devices and bring creative ideas to life.
+
+Throughout my journey, I've embraced new technologies and challenges, constantly learning and evolving as a programmer.
 <!-- git hub top contributions -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Moachuba-Jamir&limit=5&theme=flat&combine_all_yearly_contributions=true) -->
 
