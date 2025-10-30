@@ -4,7 +4,7 @@
 
 <p align="left"> I'm <b>Moachuba Jamir</b> a software developer who loves building end‑to‑end products and projects. I'm a <b>curious blob of DNA</b>, exploring, tinkering, and iterating my way to better results. </p>
 
-<h3 align="left">About me</h3> <hr/> <ul> <li>✨ Creating bugs since 2019</li> <li>📚 I'm currently learning Spanish and PostgreSQL🐘</li> <li>🎯 Goals: live in a cold place ❄ and speak Spanish🚀</li> <li> I like an early morning jog 🏃‍♂️</li>
+<h3 align="left">About me</h3> <hr/> <ul> <li>✨ Creating bugs since 2019</li> <li>📚 I'm currently learning Spanish and PostgreSQL🐘</li> <li>🎯 Goals: live in a cold place ❄ and speak Spanish🚀</li> <li>📖 I like an early morning jog 🏃‍♂️</li>
 
 </ul>
 
